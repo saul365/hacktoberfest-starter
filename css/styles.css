@@ -19,5 +19,12 @@ img#easter-egg-img {
 .caja{
  display:flex;
  flex-direction: row;
-  
+ flex-wrap:wrap;
+}
+
+.caja h1, h2{
+  widht:100%
+}
+.caja .buttons{
+  widht:100%;
 }
