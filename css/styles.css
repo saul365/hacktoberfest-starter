@@ -17,9 +17,10 @@ img#easter-egg-img {
   cursor: help;
 }
 .caja{
- display:flex;
- flex-direction: row;
- flex-wrap:wrap;
+ display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
 }
 
 .caja h1, h2{
