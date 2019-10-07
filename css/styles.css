@@ -16,3 +16,8 @@ article.content {
 img#easter-egg-img {
   cursor: help;
 }
+.caja{
+ display:flex;
+ flex-direction: row;
+  
+}
