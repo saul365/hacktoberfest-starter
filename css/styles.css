@@ -1,12 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
 
-html,
-body {
+html,body {
   font-family: 'Noto Sans', sans-serif;
 }
 
-figure.brand-images>img {
-  max-height: 60px;
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.gdgimg{
+  height: 103px;
 }
 
 article.content {
