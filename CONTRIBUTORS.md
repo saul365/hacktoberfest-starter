@@ -4,3 +4,6 @@
  Name:[Saúl Badillo](https://github.com/saul365)
  - Bio: Estudiante de ingeniería en computación en la UNAM, fanatico del hardware, raspberry pi, arduino y pics en general. Mi lenguaje favorito es C++
 - GitHub: [saul365](https://github.com/saul365)
+ Name: [Alex Gonzalez](https://github.com/AlexAglon)
+- Bio: Desarrollador web estudiente de ingeniería lenguaje favorito Javascript
+- GitHub: [AlexAglon](https://github.com/AlexAglon)
