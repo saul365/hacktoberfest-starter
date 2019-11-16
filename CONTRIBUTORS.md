@@ -7,6 +7,12 @@
  Name: [Alex Gonzalez](https://github.com/AlexAglon)
 - Bio: Desarrollador web estudiente de ingeniería lenguaje favorito Javascript
 - GitHub: [AlexAglon](https://github.com/AlexAglon)
+
  Name: [Steve Alejandro](https://github.com/steve2ag)
 - Bio: Desarrollador web estudiente de ingeniería lenguaje favorito Python
 - GitHub: [Steve Alejandro](https://github.com/steve2ag)
+
+ Name: [Leonardo Cazares](https://github.com/Leo2900/)
+- Bio: Estudiante de Fisica jeje
+- GitHub: [Leo2900](https://github.com/Leo2900/)
+
