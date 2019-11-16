@@ -7,3 +7,6 @@
  Name: [Alex Gonzalez](https://github.com/AlexAglon)
 - Bio: Desarrollador web estudiente de ingeniería lenguaje favorito Javascript
 - GitHub: [AlexAglon](https://github.com/AlexAglon)
+ Name: [Diego Villagrán](https://github.com/DiegoVC27)
+- Bio: Estudiante de Ciencias de la computación en Ciencias
+- GitHub: [DiegoVC27](https://github.com/DiegoVC27)
